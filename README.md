@@ -1,4 +1,4 @@
-## Data Science Exercises
+## Data-Science-Exercises
 
 Bank Example:
 - Logit Regression Model
